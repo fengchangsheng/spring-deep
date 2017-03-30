@@ -1,4 +1,4 @@
-package com.fcs.hello;
+package com.fcs.annotations;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

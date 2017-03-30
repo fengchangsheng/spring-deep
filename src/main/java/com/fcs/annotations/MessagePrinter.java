@@ -1,4 +1,4 @@
-package com.fcs.hello;
+package com.fcs.annotations;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
